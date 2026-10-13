@@ -2,7 +2,7 @@
 
 An interactive dashboard for exploring Derby City Council supplier payments over £500, from January 2024 to August 2026.
 
-**Live dashboard:** https://YOUR-USERNAME.github.io/derby-spend-explorer/
+**Live dashboard:** https://bbollaaitools-oss.github.io/derby-spend-explorer/
 
 ## What it shows
 
